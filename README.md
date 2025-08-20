@@ -1,6 +1,6 @@
 *Updated August 20, 2025*
 
-<h1> # Homeserver_2025 | *The most recent iteration* </h1>  
+<h1> Homeserver_2025 | The most recent iteration </h1>  
 
  
   I would say that i started my home lab journey a little over a year ago, and i have to be completely honest.. it is extremely addicting! My home "cyberlab" started out on my labtop for learning cyber security and linux. I started it on a 2023 MacBook Pro. After a month or so, I remember watching tons of YouTube videos on home labs and decided that I wanted to try to expand my lab by integrating another computer into it. After a lot more YouTube videos I was able to place my gaming laptop into the setup. It is a 2023 Razer Blade 16.
